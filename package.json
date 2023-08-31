@@ -8,6 +8,9 @@
     "start": "nodemon index.js",
     "dev": "node index.js"
   },
+  "bin": {
+    "todo": "index.js"
+  },
   "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
